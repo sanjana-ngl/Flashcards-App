@@ -1,23 +1,39 @@
 # FLASH CARDS APP
 
 This is an app that enables users to perform the following:
+
 Add new flashcards (with a question and answer).
+
 Display all flashcards in a list or sequence.
+
 Tapping a card can flip between question and answer.
+
 Supports multiple flashcards with navigation (Next/Previous buttons or swipe gestures).
+
 Displays the current card number (e.g., “3 of 10”).
+
 Feature to mark flashcards as “learned”, so they are removed from the actual list.
 
+
 Framework Used: FLUTTER
+
 Language: DART
+
 Libraries used: flutter/material.dart for UI components
+
 dart:math for card flip animation
 
+
 In order to run this project:
+
 Install flutter in the system
+
 Use the command on the terminal:
+
 git clone https://github.com/sanjana-ngl/Flashcards-App.git
+
 cd Flashcards-App
+
 
 Initial layout of the app without any flashcards:
 <img width="1919" height="841" alt="image" src="https://github.com/user-attachments/assets/ceb5b965-dba5-430c-8c1d-a043cf998b31" />
